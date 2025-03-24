@@ -1,0 +1,153 @@
+what is git ?
+what is github ?
+difference between cvcs and dvcs ?
+difference between pull and fetch ?
+difference between pull and push ?
+what is git commit ?
+what is repo in git ?
+types of git repo ?
+git merge ?
+git reset hard and soft ?
+git revert ?
+git fetch ?
+git stash ?
+git restore ?
+difference between reset and revert ?
+difference between ssh and http git clone ?
+git diff and git head ?
+advantages of github ?
+
+types of git branch or branching stratergy?
+
+----------------------------------------git question finish-----------------------------
+
+---------------------------------------Docker--------------------------------------
+
+Archiecture of docker ?
+Feature of docker ?
+Advantage and disadvantage of docker ?
+difference between monolithic and microservice ?
+difference between virtualization and containerization ?
+difference between images and container ?
+why we need docker ?
+what is docker ?
+what is docker image ?
+what is docker container ?
+what is docker file ?
+what is docker compose ?
+what is multistaging ?
+what is docker volume ?
+what is docker network ?
+types of network in docker ?
+main component of docker ?
+what is docker registry?
+Details of docker file 1) from 2) copy 3) add 4) workdir 5) run 6) CMD 7) Entrypoint
+8) Expose  
+difference between cmd and entry point
+difference between add and copy
+what is docker commit?
+what is docker hub ?
+Path of docker volume /var/lib/docker/volumes
+What is docker swarn ?
+docker checkpoint ?
+life cycle of docker container ?
+
+ 
+------------------------------Docker question finish----------------------------
+
+
+------------------------------------Jenkins--------------------------------------
+
+
+what is jenkins ?
+what is jenkin used for ?
+What is ci/cd ?
+jenkin path for password /var/lib/jenkins
+how to integrate git with jenkins ?
+how to upgrade jenkins ?
+Blue- Green deployment deployment in jenkins ?
+what is maven ?
+use of .war file ?
+what is webhook in jenkins ?
+poll SCM means in jenkins ?
+what is jenkin agent ?
+default port number of jenkin is 8080 and tomcat also ave the default no 8080
+what is trigger ?
+types of build trigger in jenkins
+what is the language used to write jenkins pipeline ?
+difference between continous deployment continous delivery ?
+explain master and slave in jenkin ?
+what is freestyle pipeline in jenkins ?
+what is pipeline in jenkins ?
+explain the role of build executor in jenkin ?
+build lifecycle in jenkins ?
+difference between poll scm and webhook ?
+difference between jenkin and gitbhub ?
+jenkin password path /var/lib/jenkins/secrets/initialAdminPassword
+
+what is sonarqube ?
+why sonarqube is important ?
+types of testing tool for jenkin ?
+
+-------------------------------------finish jenkins question--------------------
+
+-------------------------------------Terraform interview question------------------
+
+
+what is terraform ?
+what is hashicorp teraform ?
+what is infrastructure as a code ?
+what are terraform provider ?
+what is terraform statefile ?
+what is terraform init plan validate destroy fmt apply ?
+explain the concept resource ?
+what are terraform modules ?
+why we need module ?
+terraform workspace ?
+terraform code with different environment ?
+what is output.tf file ?
+what is lock file in terraform ?
+how does terraform compare to cloudformation for aws provisioning ?
+difference between tfstaefile and .tf file(configuration file)
+
+---------------------------------terraform question finish--------------------------------
+
+-----------------------------------------Kubernetes---------------------------------------
+
+what is kubernetes ?
+archiecture of kubernetes ?
+explain the concept of orchestration ?
+why we need k8 when we have docker ?
+what is pod ?
+what is k8 cluster ?
+what is horizontal pod autoscaling ?
+difference between deployment stateful daemon set ?
+what is service in k8 ?
+what is config map and secret ?
+what is ingress controller ?
+Rolling update in k8 ?
+roll back k8 ?
+what is namespace in k8 ?
+label and selector ?
+what is pv and pvc ?
+what is replica set ?
+difference between replicaset and daemonset ?
+advantages of k8 ?
+what is helm ?
+what is helm chart ?
+services of k8 1) cluster ip 2) nodeport 3) loadbalancer
+what is manifest file ?
+dockerswarn support multi node architecture then why we use k8 ?
+what is deployment ?
+what is daemon set ?
+difference between loadbalancer and ingress controller ?
+what is node affinity, anti affinity, node selector, pod affinity ?
+what is taint and tolerance ?
+what is crd ?  v.imp
+upgrade stratergy and rolling upgrade ? v.imp
+application stratergy / lifecycle ? v.imp
+
+
+
+eksctl create cluster --name irondome --node-type t2.medium --nodes 2 --region=us-east-1
+
